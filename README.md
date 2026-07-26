@@ -7,7 +7,7 @@
 
 I'm an MCA student at **RCC Institute of Information Technology (RCCIIT), Kolkata**, with a B.Sc. in Computer Science (Hons.) from the **University of Calcutta**. I'm working toward a career in **cybersecurity** — starting with SOC/blue team fundamentals, with the long-term goal of moving into **red team** work.
 
-I also have a development background (Java, Python, web technologies).
+I also have a development background (Java, Python, web technologies), but my focus going forward is security — not software development.
 
 - 🛡️ Currently building foundations in security operations & network security
 - 🎯 Long-term interest: cloud security & AI security
@@ -40,15 +40,15 @@ I also have a development background (Java, Python, web technologies).
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BristiGhosh604&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BristiGhosh604&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=BristiGhosh604&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BristiGhosh604&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
 ### 🌱 What I'm Learning
 
-Currently strengthening my fundamentals in networking, Linux and security concepts as I prepare to move into SOC-level roles — with cloud and AI security as areas I plan to specialize in down the line.
+Currently strengthening my fundamentals in networking, Linux, and security concepts as I prepare to move into SOC-level roles — with cloud and AI security as areas I plan to specialize in down the line.
 
 ---
 
