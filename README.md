@@ -5,7 +5,7 @@
 
 ### 🔐 About Me
 
-I'm an MCA student from ** Kolkata**, with a B.Sc. in Computer Science (Hons.). I'm genuinely interested in **development** (Java, Python, web technologies) — I've built projects around it — and **cybersecurity**, where I'm working toward SOC/blue team roles with a long-term goal of moving into red team work.
+I'm an MCA student from Kolkata, with a B.Sc in Computer Science (Hons). I'm genuinely interested in **development** (Java, Python, web technologies) — I've built projects around it — and **Cybersecurity**, where I'm working toward SOC/blue team roles with a long-term goal of moving into red team work.
 
 - 🛡️ Currently building foundations in security operations & network security
 - 🎯 Long-term interest: cloud security & AI security
