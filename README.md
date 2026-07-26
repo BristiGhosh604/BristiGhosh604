@@ -5,11 +5,11 @@
 
 ### 🔐 About Me
 
-I'm an MCA student at **RCC Institute of Information Technology (RCCIIT), Kolkata**, with a B.Sc. in Computer Science (Hons.) from the **University of Calcutta**. I'm genuinely interested in both **development** (Java, Python, web technologies) — I've built projects around it — and **cybersecurity**, where I'm working toward SOC/blue team roles with a long-term goal of moving into red team work.
+I'm an MCA student from ** Kolkata**, with a B.Sc. in Computer Science (Hons.). I'm genuinely interested in **development** (Java, Python, web technologies) — I've built projects around it — and **cybersecurity**, where I'm working toward SOC/blue team roles with a long-term goal of moving into red team work.
 
 - 🛡️ Currently building foundations in security operations & network security
 - 🎯 Long-term interest: cloud security & AI security
-- 📫 Open to connecting with people in cybersecurity, CTFs, or SOC/blue team roles
+- 📫 Open to connecting with people in cybersecurity, CTFs or SOC/blue team roles
 
 ---
 
@@ -46,7 +46,7 @@ I'm an MCA student at **RCC Institute of Information Technology (RCCIIT), Kolkat
 
 ### 🌱 What I'm Learning
 
-Currently strengthening my fundamentals in networking, Linux, and security concepts as I prepare to move into SOC-level roles — with cloud and AI security as areas I plan to specialize in down the line.
+Currently strengthening my fundamentals in networking, Linux and security concepts as I prepare to move into SOC-level roles — with cloud and AI security as areas I plan to specialize in down the line.
 
 ---
 
