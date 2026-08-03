@@ -1,8 +1,15 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=34&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=⚡+BRISTI+GHOSH+⚡" alt="Bristi Ghosh Header" />
-</div>
 
+<h1 align="center">
+  <font face="Georgia, 'Times New Roman', serif" size="7">
+    <b>⚡ BRISTI GHOSH ⚡</b>
+  </font>
+</h1>
+
+### 💻 Backend Software Engineer | 📊 Data Science & AI Practitioner | 🛡️ Cybersecurity Explorer
+
+</div>
 <div align="center">
 
 <p align="center">
