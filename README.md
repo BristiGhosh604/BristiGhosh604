@@ -33,19 +33,10 @@
 
 | Domain | Technologies & Symbolic Tools |
 | :--- | :--- |
-| **Languages** | `☕ Java` • `🐍 Python` • `🗄️ SQL` |
-| **Frameworks** | `🌱 Spring Boot` • `🔌 RESTful APIs` |
-| **Databases** | `🐬 MySQL` • `📊 Relational Database Design` |
-| **Version Control** | `🐙 Git` • `🖥️ GitHub Workflows` |
-
-<p>
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST_APIs-0096D6?style=for-the-badge&logo=json&logoColor=white"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-</p>
+| **Languages** | <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a> • <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> • `🗄️ SQL` |
+| **Frameworks** | <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> • <a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST_APIs-0096D6?style=flat-square&logo=json&logoColor=white"/></a> |
+| **Databases** | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> • `📊 Relational Database Design` |
+| **Version Control** | <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a> • `🖥️ GitHub Workflows` |
 
 ---
 
@@ -54,34 +45,20 @@
 
 | Module | Toolkit & Applied Skills |
 | :--- | :--- |
-| **Data Computing & Analysis** | `🐍 Python` • `🔢 NumPy` • `🐼 Pandas` |
-| **Data Visualization & EDA** | `📈 Matplotlib` • `📊 Seaborn` • `🔍 Exploratory Data Analysis` |
+| **Data Computing & Analysis** | <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> • <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></a> • <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> |
+| **Data Visualization & EDA** | <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square"/></a> • <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/></a> • `🔍 Exploratory Data Analysis` |
 | **Data Pipelines & Storage** | `🗄️ SQL Querying` • `🌐 Data Collection & Web Extraction` |
-| **Machine Learning & AI** | `🤖 Scikit-Learn` • `🧠 Neural Networks & Deep Learning` • `💬 LLM Integration` |
-| **Environments & Tools** | `📙 Google Colab` • `🌐 Web Dev for Data Science` |
-
-<p>
-  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
-  <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>
-  <a href="https://tensorflow.org/"><img src="https://img.shields.io/badge/Deep_Learning-00F0FF?style=for-the-badge&logo=openai&logoColor=black"/></a>
-</p>
+| **Machine Learning & AI** | <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> • `🧠 Neural Networks & Deep Learning` • `💬 LLM Integration` |
+| **Environments & Tools** | <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a> • `🌐 Web Dev for Data Science` |
 
 ---
 
 ### 🛡️ 3. Cybersecurity & Systems (Parallel Exploration)
 *Gaining practical hands-on experience with security labs, system administration, and threat analysis.*
 
-* **Operating System & Environment:** `🐉 Kali Linux` • `🐧 Linux Command Line & Bash Scripting`
+* **Operating System & Environment:** <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kalilinux&logoColor=white"/></a> • <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a> • `Bash Scripting`
 * **Focus Areas:** Hands-on Security Projects, Network Analysis, and System Hardening
 * **Long-Term Vision:** Building a strong security baseline to potentially explore **AI Security**, **Blue Team Operations**, or **Red Team Domains** in 4–5 years.
-
-<p>
-  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
-  <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-  <a href="https://en.wikipedia.org/wiki/Computer_security"><img src="https://img.shields.io/badge/AI_Security-8A2BE2?style=for-the-badge&logo=shield&logoColor=white"/></a>
-</p>
 
 ---
 
@@ -93,16 +70,16 @@
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📊 GITHUB SUMMARY
 
 <div align="center">
 
-<a href="https://github.com/BristiGhosh604">
-  <img src="https://github-readme-stats.vercel.app/api?username=BristiGhosh604&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/BristiGhosh604">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BristiGhosh604&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</a>
+| Metric | Details |
+| :--- | :--- |
+| **Core Stack** | `Java` • `Python` • `Spring Boot` • `MySQL` |
+| **Data & AI Tools** | `NumPy` • `Pandas` • `Scikit-Learn` • `Matplotlib` • `Colab` |
+| **Primary Domain** | Backend Engineering & Scalable Systems |
+| **Secondary Domain** | Applied Data Science & AI Integration |
 
 </div>
 
