@@ -22,7 +22,7 @@
 
 </div>
 
-> 🎓 **Master of Computer Applications ** — *RCC Institute of Information Technology (RCCIIT)*
+> 🎓 **Master of Computer Applications** — *RCC Institute of Information Technology (RCCIIT)*
 >
 > 🎓 **B.Sc. Computer Science (Hons)** — *University of Calcutta*
 >
@@ -43,8 +43,9 @@
 | :--- | :--- |
 | **Languages & Fundamentals** | <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a> • <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> • <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> • `🧩 Data Structures & Algorithms (DSA)` |
 | **Frameworks & Web** | <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> • <a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST_APIs-0096D6?style=flat-square&logo=json&logoColor=white"/></a> • <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> • <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> • <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a> |
-| **Databases** | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> • `📊 Relational Database Design` |
+| **Databases** | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> • <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a> • <img src="https://img.shields.io/badge/RDBMS-005577?style=flat-square&logo=sqlite&logoColor=white"/> |
 | **Version Control & Workflows** | <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a> • <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github&logoColor=white"/></a> |
+
 ---
 
 ### 📊 2. Data Science, Machine Learning & AI
