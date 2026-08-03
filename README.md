@@ -37,15 +37,14 @@
 ## 🛠️ TECH STACK & CORE CAPABILITIES
 
 ### ☕ 1. Backend & Full-Stack Software Engineering (Primary Focus)
-*Building scalable server-side applications, REST APIs and foundational web architectures.*
+*Building scalable server-side applications, REST APIs, and foundational web architectures.*
 
 | Domain | Technologies & Symbolic Tools |
 | :--- | :--- |
-| **Languages & Fundamentals** | <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a> • <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> • <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> • `🧩 DSA` |
+| **Languages & Fundamentals** | <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a> • <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> • <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> • `🧩 Data Structures & Algorithms (DSA)` |
 | **Frameworks & Web** | <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> • <a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST_APIs-0096D6?style=flat-square&logo=json&logoColor=white"/></a> • <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> • <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> • <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a> |
 | **Databases** | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> • `📊 Relational Database Design` |
-| **Version Control & Workflows** | <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a> | <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a> • <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a> |
-
+| **Version Control & Workflows** | <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a> • <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github&logoColor=white"/></a> |
 ---
 
 ### 📊 2. Data Science, Machine Learning & AI
