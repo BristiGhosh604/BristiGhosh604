@@ -62,16 +62,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BristiGhosh604&theme=dark&show_icons=true&hide_border=false" alt="Bristi Ghosh's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BristiGhosh604&theme=dark&show_icons=true&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BristiGhosh604&theme=dark&layout=compact&hide_border=false&hide=html,css" height="165" alt="Top Languages" />
 </p>
 
 ---
 
+## ⚡ System Status
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F0FF,100:8A2BE2&height=120&section=footer&text=ENGINEERING%20%E2%80%A2%20ANALYTICS%20%E2%80%A2%20SECURITY&fontSize=18&fontColor=ffffff&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
