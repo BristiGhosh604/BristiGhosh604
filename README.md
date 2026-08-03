@@ -16,14 +16,16 @@
 
 <br/>
 
-> **🎓 EDUCATION & ACADEMIC BACKGROUND**
->
+<div align="center">
+
+### 🏛️ `Academic Journey & Qualifications` 🎓
+
+</div>
+
 > 🎓 **Master of Computer Applications (MCA '27)** — *RCC Institute of Information Technology (RCCIIT)*
 >
 > 🎓 **B.Sc. Computer Science (Hons)** — *University of Calcutta*
-
----
-
+>
 > 🚀 **Primary Focus:** Java & Python Backend Systems, API Architecture & Scalable Web Backends
 >
 > 📊 **Secondary Focus:** Practical Data Science, ML Models, Deep Learning & LLM Workflows
@@ -39,7 +41,7 @@
 
 | Domain | Technologies & Symbolic Tools |
 | :--- | :--- |
-| **Languages & Fundamentals** | <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a> • <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> • `C` • `🧩 Data Structures & Algorithms (DSA)` |
+| **Languages & Fundamentals** | <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a> • <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> • <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> • `🧩 Data Structures & Algorithms (DSA)` |
 | **Frameworks & Web** | <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> • <a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST_APIs-0096D6?style=flat-square&logo=json&logoColor=white"/></a> • <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> • <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> • <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a> |
 | **Databases** | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> • `📊 Relational Database Design` |
 | **Version Control & Workflows** | <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a> • `🖥️ GitHub Workflows` |
@@ -64,6 +66,14 @@
 * **Operating System & Environment:** <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kalilinux&logoColor=white"/></a> • <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a> • `Bash Scripting`
 * **Current Focus:** Hands-on Security Bootcamp, Network Analysis, and Live Security Projects
 * **Long-Term Vision:** Building a strong security baseline to bridge **Offensive/Defensive Tech with AI & Data Security**.
+
+---
+
+## 🌐 ORGANIZATIONS & COLLABORATIVE LEADERSHIP
+
+### 🚀 Founder & Lead Developer @ [CodeBridge-Lab](https://github.com/CodeBridge-Lab)
+* **Open & Collaborative Engineering:** Founded and currently leading **CodeBridge-Lab**, an open-source GitHub organization dedicated to building collaborative software tools, backend architectures, and data-driven applications.
+* **Team Collaboration:** Architecting backend systems, conducting code reviews, and managing repository workflows across multi-developer projects.
 
 ---
 
