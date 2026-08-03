@@ -61,29 +61,23 @@
 * **Long-Term Vision:** Building a strong security baseline to potentially explore **AI Security**, **Blue Team Operations**, or **Red Team Domains** in 4–5 years.
 
 ---
+## 📊 GitHub Stats:
 
-## 🎯 CURRENT FOCUS & PROGRESS
+<div align="left">
 
-* 🚀 **Java & Python Backend Projects:** `[====================>.........]`
-* 📊 **Data Science & ML Practical Work:** `[==================>...........]`
-* 🛡️ **Kali Linux Security Labs & Projects:** `[=======>......................]`
+<img src="https://github-readme-stats.vercel.app/api?username=BristiGhosh604&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="450" alt="Bristi Ghosh's GitHub Stats" />
 
----
+<br/>
 
-## 📊 GITHUB SUMMARY
-
-<div align="center">
-
-| Metric | Details |
-| :--- | :--- |
-| **Core Stack** | `Java` • `Python` • `Spring Boot` • `MySQL` |
-| **Data & AI Tools** | `NumPy` • `Pandas` • `Scikit-Learn` • `Matplotlib` • `Colab` |
-| **Primary Domain** | Backend Engineering & Scalable Systems |
-| **Secondary Domain** | Applied Data Science & AI Integration |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BristiGhosh604&theme=dark&hide_border=false&layout=compact" width="350" alt="Most Used Languages" />
 
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BristiGhosh604&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <div align="center">
 
