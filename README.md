@@ -66,10 +66,20 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BristiGhosh604&theme=dark&show_icons=true&hide_border=false" height="165" alt="Bristi Ghosh's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BristiGhosh604&theme=dark&layout=compact&hide_border=false" height="165" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BristiGhosh604&theme=dark&layout=compact&hide_border=false&langs_count=6" height="165" alt="Most Used Languages" />
 </p>
 
 ---
+
+## 🎨 Activity & Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BristiGhosh604/BristiGhosh604/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=120&section=footer" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BristiGhosh604&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
