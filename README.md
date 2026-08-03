@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/BristiGhosh604">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=750&lines=Java+%26+Python+Backend+Developer;Data+Science+%26+Machine+Learning+Practitioner;Exploring+Kali+Linux+%26+AI+Security" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C71883&center=true&vcenter=true&width=750&lines=Java+%26+Python+Backend+Developer;Data+Science+%26+Machine+Learning+Practitioner;Exploring+Kali+Linux+%26+AI+Security" alt="Typing SVG Animation" />
   </a>
 </p>
 
@@ -84,11 +84,11 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C92873,100:8A2BE2&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C71883,100:8A2BE2&height=120&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BristiGhosh604&label=Profile%20views&color=2891C9&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BristiGhosh604&label=Profile%20views&color=11EDE1&style=flat" alt="Profile Views" />
 </p>
 
 <div align="center">
