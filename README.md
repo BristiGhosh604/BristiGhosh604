@@ -36,7 +36,7 @@ I'm an MCA student from Kolkata, with a B.Sc in Computer Science (Hons). I'm gen
 ---
 ### 🏢 Organization
 
-I founded and own **[CodeBridge-Lab](https://github.com/CodeBridge-Lab)** — a collaborative dev/security lab where I work with peers on projects.
+I founded and own **[CodeBridge-Lab](https://github.com/CodeBridge-Lab)** — a collaborative lab where I work with peers on projects.
 
 ---
 
