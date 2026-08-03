@@ -65,24 +65,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BristiGhosh604&theme=dark&show_icons=true&hide_border=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BristiGhosh604&theme=dark&layout=compact&hide_border=false&hide=html,css" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BristiGhosh604&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats" />
 </p>
 
 ---
 
-## ⚡ System Status
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F0FF,100:8A2BE2&height=120&section=footer&text=ENGINEERING%20%E2%80%A2%20ANALYTICS%20%E2%80%A2%20SECURITY&fontSize=18&fontColor=ffffff&fontAlignY=35" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Scalable+Backends;Intelligent+Analytics;Secure+Systems" alt="Footer Animation" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BristiGhosh604&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-<div align="center">
-
-*“Scalable Backends • Intelligent Analytics • Secure Systems”*
-
-</div>
