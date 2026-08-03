@@ -61,17 +61,13 @@
 * **Long-Term Vision:** Building a strong security baseline to potentially explore **AI Security**, **Blue Team Operations**, or **Red Team Domains** in 4–5 years.
 
 ---
-## 📊 GitHub Stats:
 
-<div align="left">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=BristiGhosh604&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="450" alt="Bristi Ghosh's GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BristiGhosh604&theme=dark&hide_border=false&layout=compact" width="350" alt="Most Used Languages" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BristiGhosh604&theme=dark&show_icons=true&hide_border=false" height="165" alt="Bristi Ghosh's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BristiGhosh604&theme=dark&layout=compact&hide_border=false" height="165" alt="Most Used Languages" />
+</p>
 
 ---
 
