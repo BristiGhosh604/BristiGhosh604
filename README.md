@@ -62,19 +62,22 @@
 
 ---
 
-## 📊 GitHub Activity & Languages
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/BristiGhosh604">
-    <img src="https://streak-stats.demolab.com?user=BristiGhosh604&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Primary_Languages-Java_%7C_Python-00F0FF?style=for-the-badge&logo=codefactor" alt="Top Languages Badge" />
+  <img src="https://github-readme-stats.demolab.com/api?username=BristiGhosh604&theme=dark&show_icons=true&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=BristiGhosh604&theme=dark&layout=compact&hide_border=false" height="165" alt="Most Used Languages" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=120&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BristiGhosh604&label=Profile%20views&color=00F0FF&style=flat" alt="Profile Views" />
+</p>
 
 <div align="center">
 
