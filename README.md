@@ -67,10 +67,10 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=BristiGhosh604&theme=dark&show_icons=true&hide_border=false&cache_seconds=300" height="165" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=BristiGhosh604&theme=dark&show_icons=true&hide_border=false&cache_seconds=300" height="165" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=BristiGhosh604&theme=dark&layout=compact&hide_border=false&cache_seconds=300" height="165" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BristiGhosh604&theme=dark&layout=compact&hide_border=false&cache_seconds=300" height="165" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
