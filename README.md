@@ -1,7 +1,9 @@
-<div align="center">
 
-# ⚡ BRISTI GHOSH
-### 💻 Backend Software Engineer | 📊 Data Science & AI Practitioner | 🛡️ Cybersecurity Explorer
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=34&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=⚡+BRISTI+GHOSH+⚡" alt="Bristi Ghosh Header" />
+</div>
+
+<div align="center">
 
 <p align="center">
   <a href="https://github.com/BristiGhosh604">
@@ -18,7 +20,7 @@
 
 <div align="center">
 
-### 🏛️ `Academic Journey & Qualifications` 
+### 🏛️ `Academic Journey & Qualifications` 🎓
 
 </div>
 
