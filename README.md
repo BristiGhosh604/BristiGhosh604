@@ -35,6 +35,8 @@
 
 🎓 **B.Sc. Computer Science (Hons)** — *University of Calcutta*
 
+-
+
 🚀 **Primary Focus:** Java & Python Backend Systems, API Architecture & Scalable Web Backends
 
 📊 **Secondary Focus:** Practical Data Science, ML Models, Deep Learning & LLM Workflows
@@ -102,6 +104,6 @@
 
 <div align="center">
 
-*“Scalable Backends • Intelligent Analytics • Secure Systems”*
+*Scalable Backends • Intelligent Analytics • Secure Systems*
 
 </div>
