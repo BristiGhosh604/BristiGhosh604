@@ -15,12 +15,15 @@
 </div>
 
 <br/>
+
+> **🎓 EDUCATION & ACADEMIC BACKGROUND**
 >
 > 🎓 **Master of Computer Applications (MCA '27)** — *RCC Institute of Information Technology (RCCIIT)*
 >
 > 🎓 **B.Sc. Computer Science (Hons)** — *University of Calcutta*
->
+
 ---
+
 > 🚀 **Primary Focus:** Java & Python Backend Systems, API Architecture & Scalable Web Backends
 >
 > 📊 **Secondary Focus:** Practical Data Science, ML Models, Deep Learning & LLM Workflows
