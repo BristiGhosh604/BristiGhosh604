@@ -35,7 +35,6 @@
 
 🎓 **B.Sc. Computer Science (Hons)** — *University of Calcutta*
 
--
 
 🚀 **Primary Focus:** Java & Python Backend Systems, API Architecture & Scalable Web Backends
 
