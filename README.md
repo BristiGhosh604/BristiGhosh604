@@ -69,11 +69,9 @@
 
 ---
 
-## 🌐 ORGANIZATIONS & COLLABORATIVE LEADERSHIP
+## 🌐 ORGANIZATIONS & COLLABORATION
 
-### 🚀 Founder & Lead Developer @ [CodeBridge-Lab](https://github.com/CodeBridge-Lab)
-* **Open & Collaborative Engineering:** Founded and currently leading **CodeBridge-Lab**, an open-source GitHub organization dedicated to building collaborative software tools, backend architectures, and data-driven applications.
-* **Team Collaboration:** Architecting backend systems, conducting code reviews, and managing repository workflows across multi-developer projects.
+* 👑 **Founder & Owner @ [CodeBridge-Lab](https://github.com/CodeBridge-Lab):** Leading collaborative open-source engineering, multi-developer projects, and backend architectures.
 
 ---
 
