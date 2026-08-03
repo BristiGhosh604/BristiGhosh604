@@ -18,11 +18,11 @@
 
 <div align="center">
 
-### 🏛️ `Academic Journey & Qualifications` 🎓
+### 🏛️ `Academic Journey & Qualifications` 
 
 </div>
 
-> 🎓 **Master of Computer Applications (MCA '27)** — *RCC Institute of Information Technology (RCCIIT)*
+> 🎓 **Master of Computer Applications ** — *RCC Institute of Information Technology (RCCIIT)*
 >
 > 🎓 **B.Sc. Computer Science (Hons)** — *University of Calcutta*
 >
@@ -37,19 +37,19 @@
 ## 🛠️ TECH STACK & CORE CAPABILITIES
 
 ### ☕ 1. Backend & Full-Stack Software Engineering (Primary Focus)
-*Building scalable server-side applications, REST APIs, and foundational web architectures.*
+*Building scalable server-side applications, REST APIs and foundational web architectures.*
 
 | Domain | Technologies & Symbolic Tools |
 | :--- | :--- |
-| **Languages & Fundamentals** | <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a> • <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> • <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> • `🧩 Data Structures & Algorithms (DSA)` |
+| **Languages & Fundamentals** | <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a> • <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> • <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> • `🧩 DSA` |
 | **Frameworks & Web** | <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> • <a href="https://restfulapi.net/"><img src="https://img.shields.io/badge/REST_APIs-0096D6?style=flat-square&logo=json&logoColor=white"/></a> • <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a> • <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> • <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a> |
 | **Databases** | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> • `📊 Relational Database Design` |
-| **Version Control & Workflows** | <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a> • `🖥️ GitHub Workflows` |
+| **Version Control & Workflows** | <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a> | <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a> • <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/></a> |
 
 ---
 
 ### 📊 2. Data Science, Machine Learning & AI
-*Extracting actionable insights, training models, and building applied AI pipelines.*
+*Extracting actionable insights, training models and building applied AI pipelines.*
 
 | Module | Toolkit & Applied Skills |
 | :--- | :--- |
@@ -61,17 +61,17 @@
 ---
 
 ### 🛡️ 3. Cybersecurity & Systems (Parallel Exploration)
-*Hands-on experience through security bootcamps, system administration, and threat analysis.*
+*Hands-on experience through security bootcamps, system administration and threat analysis.*
 
 * **Operating System & Environment:** <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kalilinux&logoColor=white"/></a> • <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a> • `Bash Scripting`
-* **Current Focus:** Hands-on Security Bootcamp, Network Analysis, and Live Security Projects
+* **Current Focus:** Hands-on Security Bootcamp, Network Analysis and Live Security Projects
 * **Long-Term Vision:** Building a strong security baseline to bridge **Offensive/Defensive Tech with AI & Data Security**.
 
 ---
 
 ## 🌐 ORGANIZATIONS & COLLABORATION
 
-* 👑 **Founder & Owner @ [CodeBridge-Lab](https://github.com/CodeBridge-Lab):** Leading collaborative open-source engineering, multi-developer projects, and backend architectures.
+* 👑 **Founder & Owner [CodeBridge-Lab](https://github.com/CodeBridge-Lab):** Leading collaborative open-source engineering, multi-developer projects and backend architectures.
 
 ---
 
@@ -84,11 +84,11 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:8A2BE2&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C92873,100:8A2BE2&height=120&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BristiGhosh604&label=Profile%20views&color=00F0FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BristiGhosh604&label=Profile%20views&color=2891C9&style=flat" alt="Profile Views" />
 </p>
 
 <div align="center">
