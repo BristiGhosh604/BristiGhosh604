@@ -19,43 +19,46 @@
 
 ## 🎓 Executive Summary
 
-I am a **Computer Science Graduate** currently pursuing my **Master of Computer Applications (MCA)**. My primary focus revolves around engineering robust backend applications using **Java & Spring Boot** and mastering end-to-end **Data Science & Machine Learning** workflows.
+I am a **Computer Science Graduate** currently pursuing my **Master of Computer Applications (MCA)**. My primary technical focus is centered on engineering robust backend applications using **Java & Spring Boot** alongside developing comprehensive **Data Science & Machine Learning** expertise.
 
-In addition to core development and data analytics, I am enrolling in an intensive **Cybersecurity Bootcamp** focused on hands-on **Kali Linux labs and security project building**. While software engineering and data science drive my current work, this security foundation prepares me for a potential career pivot in 4–5 years toward **Blue Team operations, AI Security, or Red Team domain expertise**.
-
----
-
-## 🛠️ Technical Capabilities & Toolkit
-
-### 💻 Backend Software Engineering
-* **Languages & Core:** Java, SQL, Object-Oriented Programming (OOP), Data Structures & Algorithms
-* **Frameworks & Architectures:** Spring Boot, RESTful API Design, Microservices Concepts
-* **Databases & Tools:** MySQL, Relational Database Design, Git, GitHub Version Control
+Additionally, I am enrolling in an intensive **Cybersecurity Bootcamp** centered on hands-on **Kali Linux labs and security project building**. While core software development and data science define my immediate engineering pursuits, this security foundation establishes a baseline for a prospective long-term transition into **Blue Team operations, AI Security, or Red Team specializations** over the next 4–5 years.
 
 ---
 
-### 📊 Data Science & Artificial Intelligence
-I am actively building real-world practical experience across the following data science competencies:
+## 🛠️ Detailed Skill Matrix & Roadmap
 
-| Skill Area | Tools & Concepts Applied |
+### ☕ 1. Backend Software Engineering
+* **Core Stack:** Java, Spring Boot, Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA).
+* **Architecture:** RESTful API Design, Microservices Principles, System Optimization.
+* **Data Management:** MySQL, Relational Database Modeling, SQL Query Optimization.
+* **Tooling:** Git, GitHub Version Control, Maven/Gradle.
+
+---
+
+### 📊 2. Practical Data Science & Artificial Intelligence
+I am actively building hands-on projects across the full Data Science ecosystem:
+
+| Module | Core Tools & Applied Skills |
 | :--- | :--- |
-| **Programming & Computation** | Python (Advanced), NumPy, Pandas |
-| **Data Visualization & EDA** | Matplotlib, Seaborn, Exploratory Data Analysis |
-| **Data Pipeline & Storage** | Data Collection Techniques, SQL Querying & Database Management |
-| **Machine Learning** | Scikit-Learn, Supervised & Unsupervised Learning Models |
-| **Deep Learning & AI** | Neural Networks, Deep Learning Architectures, Large Language Models (LLMs) |
-| **Specialized Skills** | Web Development for Data Scientists, Leveraging AI Workflows, Google Colab Environment |
+| **Programming Core** | Advanced Python programming for algorithmic analysis and data pipelines |
+| **Data Manipulation** | `NumPy` for numerical computing, `Pandas` for data wrangling & analysis |
+| **Data Visualization** | `Matplotlib` & `Seaborn` for exploratory data analysis (EDA) and data stories |
+| **Data Collection & SQL** | Web scraping, data extraction techniques, complex `SQL` querying & data modeling |
+| **Machine Learning** | `Scikit-Learn` (Supervised/Unsupervised models, regression, classification, clustering) |
+| **Deep Learning & Neural Networks**| Building neural network architectures and understanding deep learning fundamentals |
+| **Generative AI & LLMs** | Working with Large Language Models (LLMs) and leveraging AI workflows as a Data Scientist |
+| **Deployment & Environments** | Web development for data scientists, `Google Colab`, interactive notebooks |
 
 ---
 
-### 🛡️ Cybersecurity & Infrastructure (Bootcamp & Labs)
-* **Operating Systems:** Kali Linux, Linux Command Line & Bash Scripting
-* **Practical Training:** Hands-on Security Labs, Threat Analysis & Network Fundamentals
-* **Future Vision:** Bridging Data Science with **AI Security**, **Blue Team Operations**, and **Red Team Specialization**
+### 🛡️ 3. Cybersecurity & Systems (Upcoming Bootcamp)
+* **Environment:** Kali Linux, Linux Command Line Navigation, Bash Scripting.
+* **Focus:** Practical hands-on security labs, threat modeling, and defensive/offensive fundamentals.
+* **Long-Term Goal:** Transitioning towards **Blue Team Operations**, **AI Security**, or **Red Team Engagements** in 4–5 years.
 
 ---
 
-## 🌐 Complete Technology Stack
+## 🌐 Full Technology Stack
 
 <p>
   <!-- Backend Badges -->
@@ -79,14 +82,14 @@ I am actively building real-world practical experience across the following data
 
 ---
 
-## 🎯 Current Roadmap & Continuous Learning
+## 🎯 Current Focus & Learning Flow
 
 ```text
-  [1] Java & Spring Boot Backend Systems
-   └── Designing scalable REST APIs, microservices, and database schemas.
+  [1] Java & Spring Boot Development
+   └── Building production-ready RESTful APIs and backend microservices.
 
-  [2] Applied Data Science & AI Engineering
-   └── Building end-to-end ML models, data pipelines, and integrating LLMs.
+  [2] Applied Data Science & AI Workflow
+   └── Implementing ML pipelines, deep learning models, EDA, and LLM integrations.
 
-  [3] Cybersecurity Bootcamp (Hands-On Labs)
-   └── Mastering Kali Linux, threat modeling, and defensive/offensive fundamentals.
+  [3] Cybersecurity Bootcamp (Starting Soon)
+   └── Hands-on Kali Linux labs, offensive/defensive basics, and AI Security exposure.
