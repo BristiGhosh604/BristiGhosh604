@@ -31,15 +31,15 @@
 
 </div>
 
-> 🎓 **Master of Computer Applications** — *RCC Institute of Information Technology (RCCIIT)*
->
-> 🎓 **B.Sc. Computer Science (Hons)** — *University of Calcutta*
->
-> 🚀 **Primary Focus:** Java & Python Backend Systems, API Architecture & Scalable Web Backends
->
-> 📊 **Secondary Focus:** Practical Data Science, ML Models, Deep Learning & LLM Workflows
->
-> 🛡️ **Parallel Pursuit:** Hands-on Cybersecurity Bootcamp (Kali Linux, Security Labs & Threat Fundamentals)
+🎓 **Master of Computer Applications** — *RCC Institute of Information Technology (RCCIIT)*
+
+🎓 **B.Sc. Computer Science (Hons)** — *University of Calcutta*
+
+🚀 **Primary Focus:** Java & Python Backend Systems, API Architecture & Scalable Web Backends
+
+📊 **Secondary Focus:** Practical Data Science, ML Models, Deep Learning & LLM Workflows
+
+🛡️ **Parallel Pursuit:** Hands-on Cybersecurity Bootcamp (Kali Linux, Security Labs & Threat Fundamentals)
 
 ---
 
