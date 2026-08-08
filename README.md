@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/BristiGhosh604">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7928D4&center=true&vcenter=true&width=750&lines=Java+%26+Python+Backend+Developer;Building+LLM+%26+ML-Powered+Applications;Exploring+Kali+Linux+%26+AI+Security" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7928D4&center=true&vcenter=true&width=750&lines=Java+%26+Python+Backend+Developer;Building+LLM+%26+ML-Powered+Applications;Exploring+Kali+Linux+%26+AI+Security" alt="Typing SVG Animation" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 <br/>
 
 <div align="center">
-
+  
 ### 🏛️ `Academic Journey & Qualifications` 🎓
 
 </div>
